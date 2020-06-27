@@ -27,6 +27,8 @@
     </dependencies>
     <modules>
         <module>kafka</module>
+        <module>Zookeeper</module>
+        <module>Dubbo</module>
     </modules>
 
 
