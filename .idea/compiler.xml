@@ -8,11 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="KafkaSpringBoot" />
         <module name="PayApi" />
+        <module name="springboot-dubbo-api" />
         <module name="PayApiServiceImpl" />
         <module name="KafkaPrimary" />
+        <module name="SpringCloud" />
         <module name="Zookeeper" />
         <module name="OrderService" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springbootdubboapi" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

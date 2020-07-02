@@ -29,6 +29,7 @@
         <module>kafka</module>
         <module>Zookeeper</module>
         <module>Dubbo</module>
+        <module>SpringCloud</module>
     </modules>
 
 
